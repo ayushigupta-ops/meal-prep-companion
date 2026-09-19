@@ -1,0 +1,14 @@
+{
+  "name": "meal-prep-companion",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Privacy-friendly four-week meal planning and preparation PWA.",
+  "scripts": {
+    "validate": "node scripts/validate-client.mjs",
+    "build": "bash scripts/build.sh"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

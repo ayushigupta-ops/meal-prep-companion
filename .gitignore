@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+.openai/hosting.json
+wrangler.toml
+node_modules/
+dist/
+*.tar.gz
+*.zip
+private-data/
+exports/
+backups/
+personal-menu.json
